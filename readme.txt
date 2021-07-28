@@ -11,4 +11,5 @@ this is my third commit
 =======
 这次好像对了
 >>>>>>> 31f53eb734193532eecc9731ae4357ce253849a4
+我修改了A中的B
 
