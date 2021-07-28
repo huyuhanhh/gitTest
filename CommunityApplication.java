@@ -17,6 +17,7 @@ public class CommunityApplication {
 		System.out.print("sussgess01-demo");
 		System.out.print("sussgess02-demo");
 		System.out.print("sussgess03-demo");
+		System.out.print("sussgess04-demo");
     }
 
 }
