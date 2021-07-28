@@ -18,7 +18,11 @@ public class CommunityApplication {
 		System.out.print("sussgess02-demo");
 		System.out.print("sussgess03-demo");
 		System.out.print("sussgess04-demo");
+<<<<<<< HEAD
 		System.out.print("sussgess05-demo");
+=======
+	    System.out.print("sussgess06-demo");
+>>>>>>> b9f21c3649369f0c24ea755ccbaed5ae1d187fd0
     }
 
 }
