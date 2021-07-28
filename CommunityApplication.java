@@ -23,6 +23,7 @@ public class CommunityApplication {
 =======
 	    System.out.print("sussgess06-demo");
 >>>>>>> b9f21c3649369f0c24ea755ccbaed5ae1d187fd0
+		我修改了B中的A
     }
 
 }
